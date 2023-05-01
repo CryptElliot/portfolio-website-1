@@ -116,9 +116,9 @@ const Footer = () => {
             Created With <span className='text-red-600 text-lg mx-1.5'>♥</span> by Ashish
           </p>
           <p className="text-gray-400 text-sm text-center sm:text-left">
-            Images are from <a href="https://www.unsplash.com" className='text-primary ' target="_blank"> unsplash </a>
+            Images are from <a href="https://www.unsplash.com" className='text-primary ' rel="noreferrer" target="_blank"> unsplash </a>
             and
-            Illustration are from <a href="https://www.freepik.com" className='text-primary ' target="_blank"> freepik </a>
+            Illustration are from <a href="https://www.freepik.com" className='text-primary ' rel="noreferrer" target="_blank"> freepik </a>
           </p>
         </div>
       </div>
